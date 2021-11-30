@@ -1,0 +1,34 @@
+{
+    "short_name": "Examen", 
+    "name": "semaforo",
+    "start_url": "/index.html",
+    "background_color": "#2196F3",
+    "display": "standalone",
+    "orientation": "portrait",
+    "theme_color": "#2196F3",
+    "icons": [{
+            "src": "img/icons/descarga(8).png",
+            "type": "image/png",
+            "sizes": "16x16"
+        }, {
+            "src": "img/icons/descarga(9).png",
+            "type": "image/png",
+            "sizes": "32x32"
+        }, {
+            "src": "img/icons/descarga(10).png",
+            "type": "image/png",
+            "sizes": "48x48"
+        }, {
+            "src": "img/icons/descarga(11).png",
+            "type": "image/png",
+            "sizes": "64x64"
+        }, {
+            "src": "img/icons/descarga(12).png",
+            "type": "image/png",
+            "sizes": "128x128"
+        }, {
+            "src": "img/icons/descarga(13).png",
+            "type": "image/png",
+            "sizes": "256x256"
+        }]    
+}
